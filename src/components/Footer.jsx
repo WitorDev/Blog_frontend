@@ -7,7 +7,7 @@ export default function Footer() {
                 <p>&copy; {new Date().getFullYear()} Witor Tenã</p>
                 <div>
                     <a href="https://github.com/WitorDev" className="text-gray-400 hover:text-white mx-2">Witor's Github</a>
-                    <a href="#" className="text-gray-400 hover:text-white mx-2">This project</a>
+                    <a href="https://github.com/WitorDev/Blog_frontend" className="text-gray-400 hover:text-white mx-2">This project</a>
                 </div>
             </footer>
         </div>
