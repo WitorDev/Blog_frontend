@@ -1,8 +1,7 @@
-# React + Vite
+# Umbra Genesis Blog
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<hr>
 
-Currently, two official plugins are available:
+A simple blog website for learning how Node.js, Express.js and React along with ReactRouter can work together to bring something like this to life with data from a MongoDB database being controlled using Mongoose.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is the frontend of this website, made to access and display information from the REST-API made in the backend of this project, it is made using React and other complementing tools like ReactRouter for multipage rendering.
